@@ -1,6 +1,6 @@
 # capstone_project
 
-Datasets and Inputs
+Datasets and Inputs:
 
 The required data and inputs will be obtained from the kaggle competition: https://www.kaggle.com/c/dogs-vs-cats
 
