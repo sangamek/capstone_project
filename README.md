@@ -23,3 +23,7 @@ https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning
 https://keras.io/layers/convolutional/
 
 https://cambridgespark.com/content/tutorials/convolutional-neural-networks-withkeras/index.html
+
+https://www.robots.ox.ac.uk/~vgg/publications/2012/parkhi12a/parkhi12a.pdf
+
+https://www.mathworks.com/company/newsletters/articles/deep-learning-for-computer-visionwith-matlab.html
