@@ -19,3 +19,7 @@ https://github.com/sangamek/dog-project
 https://shaoanlu.wordpress.com/2017/05/29/sgd-all-which-one-is-the-best-optimizer-dogs-vs-cats-toy-experiment/
 
 https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/
+
+https://keras.io/layers/convolutional/
+
+https://cambridgespark.com/content/tutorials/convolutional-neural-networks-withkeras/index.html
