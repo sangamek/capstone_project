@@ -31,3 +31,5 @@ https://www.mathworks.com/company/newsletters/articles/deep-learning-for-compute
 https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/
 
 https://en.wikipedia.org/wiki/Convolutional_neural_network
+
+https://deeplearning4j.org/glossary
