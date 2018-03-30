@@ -27,3 +27,7 @@ https://cambridgespark.com/content/tutorials/convolutional-neural-networks-withk
 https://www.robots.ox.ac.uk/~vgg/publications/2012/parkhi12a/parkhi12a.pdf
 
 https://www.mathworks.com/company/newsletters/articles/deep-learning-for-computer-visionwith-matlab.html
+
+https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/
+
+https://en.wikipedia.org/wiki/Convolutional_neural_network
